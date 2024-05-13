@@ -3,6 +3,6 @@ import "./service.css"
 
 export default function Services() {
     return <div className="">
-       starting
+       starting the serveice section
     </div>
 } 
